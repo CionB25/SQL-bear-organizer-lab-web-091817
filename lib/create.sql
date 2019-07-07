@@ -1,4 +1,4 @@
-CREATE TABLES (
+CREATE TABLES bears (
   id INTEGER PRIMARY KEY,
     name TEXT,
     age INTEGER,
