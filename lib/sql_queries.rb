@@ -1,10 +1,10 @@
 def selects_all_female_bears_return_name_and_age
   # "Write your SQL query here"
-  # SELECT name FROM bears WHERE gender = "F";
+ "SELECT name, age FROM bears WHERE gender = 'F'"
 end
 
 def selects_all_bears_names_and_orders_in_alphabetical_order
-  "Write your SQL query here"
+  # "Write your SQL query here"
   # SELECT * FROM bears ORDER BY name;
 end
 
